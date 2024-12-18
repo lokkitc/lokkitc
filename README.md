@@ -15,41 +15,82 @@
   </a>
 </div>
 
-
 ---
 
-<h3 align="left">👨‍💻 Обо мне:</h3>
+<h3 align="center">👨‍💻 Обо мне</h3>
+
+<p align="center">
+Я начинающий Python-разработчик с огромной страстью к бэкенду! 🚀  
+Моя цель — разрабатывать надежные, производительные и масштабируемые веб-приложения.
+</p>
 
 <p align="left">
-Я начинающий Python-разработчик с огромной страстью к бэкенду! <br><br>
-Мой путь в IT начался в 156-й школе-гимназии, где я прошел интенсивный курс. После этого я попробовал свои силы в разных направлениях: изучал C++, C, Java, Python, а также экспериментировал с Data Science. Но больше всего меня увлекла разработка серверной части приложений! На данный момент на 3 курсе обучения в "Инновационный Технический Колледж" по направлению ПО разработчика🎯<br><br>
-- 🔭 Участвовал в Олимпиадах разных технических училищ. <br>
-- 📚 Завершил курс по веб-разработке в Яндекс Практикуме. <br>
-- ⚡ Вдохновляюсь новыми технологиями и непрерывным обучением. <br>
+- 🎓 **Образование:**  
+  Учусь на 3 курсе в "Инновационном Техническом Колледже" по направлению "Разработка программного обеспечения".  
+  Прошел несколько специализированных курсов:  
+  - Курс веб-разработки в "Яндекс Практикуме".  
+  - Интенсив по Python-разработке от "Stepik".  
+
+- 🏆 **Достижения:**  
+  - Победитель и призер внутренних олимпиад технических училищ.  
+  - Создал учебные проекты, включая REST API для e-commerce и системы блогов.  
+  - Участвовал в хакатонах, где разработал backend решения для командных проектов.
+
+- 🧑‍💻 **Текущая работа:**  
+  - Пишу backend для учебного приложения с использованием Django и PostgreSQL.  
+  - Изучаю асинхронное программирование в Python (FastAPI, asyncio).  
+
+- ⚡ **Интересы:**  
+  - Технологии: искусственный интеллект, облачные вычисления, DevOps.  
+  - Хобби: играю на гитаре, изучаю иностранные языки, участвую в спортивных соревнованиях.
 </p>
 
 ---
 
+<h3 align="center">🛠 Технологии</h3>
 
-<h3 align="left">🛠 Технологии:</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50" alt="Django" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="50" alt="FastAPI" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Linux" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
 </div>
 
+---
+
+<h3 align="center">📚 Чем я занимаюсь сейчас</h3>
+
+<p align="left">
+- 🌱 Осваиваю **асинхронное программирование** (FastAPI, SQLAlchemy).  
+- 🔧 Работаю над проектом REST API для личного блога с авторизацией на базе JWT.  
+- 🤝 Участвую в open-source проектах, чтобы улучшить навыки и внести вклад в сообщество.  
+- 📖 Читаю книгу "Clean Architecture" Роберта Мартина.  
+- 🛠 Экспериментирую с настройкой CI/CD пайплайнов для автоматизации развертывания приложений.  
+</p>
+
+---
+
+<h3 align="center">🌟 Чем могу помочь</h3>
+
+<p align="left">
+- Настройка backend-систем на Django или FastAPI.  
+- Создание API для веб-приложений.  
+- Проектирование баз данных и их оптимизация (PostgreSQL).  
+- Помощь с базовым DevOps: настройка Docker, написание Dockerfile и Compose.  
+- Менторство для новичков в программировании.  
+</p>
