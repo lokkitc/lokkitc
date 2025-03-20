@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="900" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmRnazM5OWxwZGlrMXZwNDh3NnlxcnQxMGh3ZDh5bzg2YTV0NXczbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Basrh159dGwKY/giphy.gif" />
+  <img height="300" width="800" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmRnazM5OWxwZGlrMXZwNDh3NnlxcnQxMGh3ZDh5bzg2YTV0NXczbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Basrh159dGwKY/giphy.gif" />
 </div>
 
 <h1 align="center">Привет 👋 Меня зовут Бекзат!</h1>
